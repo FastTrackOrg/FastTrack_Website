@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'FastTrack',
   themeConfig: {
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
     },
     navbar: {
       title: 'FastTrack',
