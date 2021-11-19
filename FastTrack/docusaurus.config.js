@@ -13,6 +13,13 @@ module.exports = {
     colorMode: {
       defaultMode: 'light',
     },
+    announcementBar: {
+        id: 'support_us',
+        content: '<b><span style="color:red;">❤</span> If you like FastTrack, give it a star on <a href="https://github.com/FastTrackOrg/FastTrack">GitHub</a>!</b> ',
+        backgroundColor: '#ff91e0',
+        textColor: '#091e42',
+        isCloseable: false,
+    },
     navbar: {
       title: 'FastTrack',
       logo: {
