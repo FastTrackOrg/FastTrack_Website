@@ -12,5 +12,5 @@ cd ..
 cp -r FastTrack-master/manual/dev/html/html/* FastTrack/static/API/
 rm -r FastTrack-master
 cd FastTrack
-npm run build
+yarn run build
 
