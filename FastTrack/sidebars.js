@@ -30,7 +30,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Tips',
-      items: ["detection", "workflow", "setParam"],
+      items: ["trackingParameters", "detection", "workflow", "setParam"],
     },
     {
       type: 'category',
