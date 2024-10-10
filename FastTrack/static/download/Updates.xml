@@ -1,0 +1,39 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>FastTrack</Name>
+  <DisplayName>FastTrack</DisplayName>
+  <Description>Install FastTrack</Description>
+  <Version>6.3.3</Version>
+  <ReleaseDate/>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="34929210" OS="Any" UncompressedSize="144401861"/>
+  <DownloadableArchives>data.7z</DownloadableArchives>
+  <UserInterfaces>readmecheckboxform.ui</UserInterfaces>
+  <Licenses>
+   <License name="GNU GENERAL PUBLIC LICENSE" file="gpl-3.0.txt"/>
+  </Licenses>
+  <SHA1>53013a9d21500081d7ffbe1af0c8fe00e5e2b058</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>FastTrack_Cli</Name>
+  <DisplayName>FastTrack_Cli</DisplayName>
+  <Description>Install FastTrack-Cli</Description>
+  <Version>6.3.3</Version>
+  <ReleaseDate/>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="21756996" OS="Any" UncompressedSize="96868380"/>
+  <DownloadableArchives>data.7z</DownloadableArchives>
+  <UserInterfaces>readmecheckboxform.ui</UserInterfaces>
+  <Licenses>
+   <License name="GNU GENERAL PUBLIC LICENSE" file="gpl-3.0.txt"/>
+  </Licenses>
+  <SHA1>58309e9aba76e5e497fa0b2b10e7261b654a2f66</SHA1>
+ </PackageUpdate>
+ <SHA1>06e7e348190aef83076e4e94df88618ac4208242</SHA1>
+ <MetadataName>2023-11-22-2018_meta.7z</MetadataName>
+</Updates>

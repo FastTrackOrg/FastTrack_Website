@@ -1,0 +1,47 @@
+win 6.3.3
+mac 6.3.3
+lin 6.3.3
+
+message
+<h1>FastTrack 6.3.3 Release Notes</h1>
+
+We are excited to announce the release of FastTrack version 6.3.3, packed with new features, bug fixes, and improvements to enhance your experience.
+
+<h2> Added </h2>
+<ul>
+<li> Community URL: We have added a community URL to facilitate better engagement and collaboration within the FastTrack community.
+</ul>
+
+<h2> Fixes </h2>
+<ul>
+<li> Registration Fix: Addressed an issue with the registration process.
+<li> Minimization Fix: Resolved the problem of FastTrack closing when minimized, providing users with consistent behavior.
+<li> Deployment CI Fix: Fixed issues related to deployment in continuous integration environments, ensuring smooth deployment processes.
+<li> CLI for Windows Fix: Addressed a bug affecting the Command Line Interface (CLI) functionality on Windows.
+</ul>
+
+<h2> Refactor </h2>
+<ul>
+<li> UI QActions Refactor: Improved the UI QActions for better code organization and maintainability.
+<li> Readme and Documentation Update: Updated the readme and documentation to provide comprehensive and up-to-date information on FastTrack features and usage.
+</ul>
+
+We appreciate your ongoing support and feedback. Feel free to reach out to us with any questions or concerns, and happy tracking with FastTrack 6.3.3!
+!message 
+
+warning
+<h1>Our Website is Now Hosted on IPFS!</h1>
+<p>We're excited to announce that the FastTrack website is now hosted on IPFS (InterPlanetary File System). IPFS is a decentralized, peer-to-peer network that distributes content across multiple nodes, providing faster load times, greater security, and improved resilience compared to traditional hosting. This move enhances the accessibility and reliability of our website for the community.</p>
+
+<h1>Join Our FastTrack Community Discord!</h1>
+<p>We're also inviting you to our Discord server, where you can engage with others in the FastTrack ecosystem, object tracking, data analysis, and related topics. Whether you're an expert or just starting out, our community is the perfect place to learn, share knowledge, and collaborate.</p>
+<p>What you can expect from our Discord community:</p>
+<ul>
+<li>Help and support on object tracking techniques and tools</li>
+<li>Discussions on data analysis for tracking applications</li>
+<li>Insights and experiences in computer vision and tracking projects</li>
+<li>Collaboration opportunities on tracking-related projects</li>
+<li>And much more!</li>
+</ul>
+<p>Join us on Discord: <a href="https://discord.gg/qxYMbCwZmf">https://discord.gg/qxYMbCwZmf</a></p>
+!warning
